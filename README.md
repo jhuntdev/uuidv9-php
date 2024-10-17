@@ -11,7 +11,7 @@ To learn more about UUID v9, please visit the website: https://uuidv9.jhunt.dev
 Install UUID v9 with Composer
 
 ```bash
-composer require uuidv9/uuidv9
+composer require uuid-v9/uuid-v9
 ```
 
 ## Usage
