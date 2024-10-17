@@ -1,9 +1,8 @@
 {
-    "name": "uuidv9/uuidv9",
-    "version": "0.0.1",
+    "name": "uuid-v9/uuid-v9",
     "type": "library",
     "description": "Fast, lightweight, zero-dependency PHP implementation of UUID version 9",
-    "keywords": ["uuidv9", "uuid-v9", "uuid", "guid", "id", "v9"],
+    "keywords": ["uuid", "guid", "id", "v9"],
     "license": "MIT",
     "authors": [
         {
